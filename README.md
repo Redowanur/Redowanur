@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/redowanlabib" target="blank"><img src="https://img.shields.io/twitter/follow/redowanlabib?logo=twitter&style=for-the-badge" alt="redowanlabib" /></a> </p>  
   
-- 🌱 I’m currently learning **ReactJS & NextJS**  
+- 👨‍💻 I’m currently learning **ReactJS & NextJS**  
   
-- 👨‍💻 All of my projects are available at [redowanur.vercel.app](redowanur.vercel.app)  
+- 🎯 Portfolio [redowanur.vercel.app](https://redowanur.vercel.app)  
   
 - 📫 How to reach me **rahmanlabib74@gmail.com**  
   
