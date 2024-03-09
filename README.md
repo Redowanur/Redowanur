@@ -5,11 +5,11 @@
   
 - 👨‍💻 I’m currently learning **ReactJS & NextJS**  
   
-- 🎯 Portfolio [redowanur.vercel.app](https://redowanur.vercel.app)  
+- 🎯 Portfolio:<br>[redowanur.vercel.app](https://redowanur.vercel.app)  
   
-- 📫 How to reach me **rahmanlabib74@gmail.com**  
+- 📫 How to reach me: <br>*rahmanlabib74@gmail.com**  
 
-- ⚡ Fun fact **I love cats**
+- ⚡ Fun fact: <br>**I love cats**
 
 <h3 align="left">Connect with me:</h3>  
 <p align="left">  
