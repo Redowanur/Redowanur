@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm Redowanur Rahman.</h1>  
-<h3 align="center">A peculiar human who finds javascript interesting and exploring the world of web development.</h3>   
+<h1 align="">Hi 👋, I'm Redowanur Rahman.</h1>  
+<h4 align="">A peculiar human who finds javascript interesting and exploring the world of web development.</h4>   
 
 <p align="left"> <a href="https://twitter.com/redowanlabib" target="blank"><img src="https://img.shields.io/twitter/follow/redowanlabib?logo=twitter&style=for-the-badge" alt="redowanlabib" /></a> </p>  
   
-- 👨‍💻 I’m currently learning **ReactJS & NextJS**  
+👨‍💻 I’m currently learning **ReactJS & NextJS**  
   
-- 🎯 Portfolio:<br>[redowanur.vercel.app](https://redowanur.vercel.app)  
+🎯 Portfolio: [redowanur.vercel.app](https://redowanur.vercel.app)  
   
-- 📫 How to reach me: <br>*rahmanlabib74@gmail.com**  
+📫 How to reach me: **rahmanlabib74@gmail.com**  
 
-- ⚡ Fun fact: <br>**I love cats**
+⚡ Fun fact: **I love cats**
 
 <h3 align="left">Connect with me:</h3>  
 <p align="left">  
