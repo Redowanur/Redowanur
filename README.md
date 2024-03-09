@@ -8,7 +8,9 @@
 - 🎯 Portfolio [redowanur.vercel.app](https://redowanur.vercel.app)  
   
 - 📫 How to reach me **rahmanlabib74@gmail.com**  
-  
+
+- ⚡ Fun fact **I love cats**
+
 <h3 align="left">Connect with me:</h3>  
 <p align="left">  
 <a href="https://dev.to/redowanur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="redowanur" height="30" width="40" /></a>  
